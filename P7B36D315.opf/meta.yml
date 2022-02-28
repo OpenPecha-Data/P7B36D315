@@ -1,0 +1,49 @@
+id: P7B36D315
+initial_creation_type: input
+source_metadata:
+  title: Milarepa Series
+  language: bo
+  description: 'Texts by and about the great yogi Jetsün Milarepa (mi la ras pa, 1040–1123),
+    Tibet’s most famous poet-saint:'
+  volume:
+    b38ea61f4fbd4142840108e61d1e454a:
+      title: A Combined Guru Yoga for Marpa, Mila, and Gampopa
+      parent: Guru Yoga
+    704e048dc9874f51a12bd5113331220d:
+      title: 'A Drop of Moonlight: A Guru Yoga for Lord Mila'
+      parent: Guru Yoga
+    12f65f5c159d494da0a4b1aa15ffaab3:
+      title: Guru Yoga of Jetsün Shepa Dorje
+      parent: Guru Yoga
+    98ae8157293a48bf860add202ec35f5c:
+      title: Guru Yoga of Milarepa Shepa Dorje for Daily Practice
+      parent: Guru Yoga
+    ad9114aeb6754021a9417ab115d852d5:
+      title: 'Vajra Net: The Ancillary Preliminary and Concluding Practices for the
+        Three Drops, the Guru Yogas for Venerable Marpa, Mila, and Gampopa'
+      parent: Guru Yoga
+    bb921a8f6dfc442db47fc0ce765b5e1e:
+      title: Homage to Milarepa
+      parent: Praise
+    c7de8672b940428a9ac46f38706036a8:
+      title: In Praise of Jetsün Mila Shepa Dorje
+      parent: Praise
+    57be5c04114a43308ce9c7f099e2bcce:
+      title: 'The Definitive Ascertainment of Tantra: In Praise of the Great Master
+        Milarepa'
+      parent: Praise
+    938741f8098648db91ecce5bba25dcfe:
+      title: Supplication to Lord Mila Shepa Dorje
+      parent: Prayers
+    4c7968e62d8046dc96263d75bef0c3d2:
+      title: 'The Melody of Complete Accomplishment: A Prayer to Those Praised as
+        Ornaments of the Practice Lineage'
+      parent: Prayers
+    8efe902eac004e65b59c95f0dfb13ba8:
+      title: Jangphen Namkha Dzong
+      parent: Songs
+    f9d2f553963c433e86a6aa3f707f1c67:
+      title: Song of Prayer to Milarepa
+      parent: Songs
+created_at: '2022-03-01T00:46:45.493955'
+last_modified_at: '2022-03-01T00:46:45.493958'
